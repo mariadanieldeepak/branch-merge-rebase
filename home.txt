@@ -1,1 +1,4 @@
 This is a beautiful home page.
+
+Links:
+- Contact
